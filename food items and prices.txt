@@ -1,0 +1,6 @@
+Item\Price
+1.Chicken roastbiryani\150
+2.Egg fried rice\70
+3.Pappu tomato\30
+4.Aloo Samosa\10
+5.Fish biryani\200
